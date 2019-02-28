@@ -1,11 +1,10 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Un videclub donde podrás elegir tus películas favoriitas.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
-
+Andrea Fernández Ortiz, Diego Rodriguez De Tapia  y Beatriz Sanz Delgado.
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Lista

@@ -5,6 +5,5 @@ Un videclub donde podrás elegir tus películas favoriitas.
 ## Integrantes del equipo
 
 Andrea Fernández Ortiz, Diego Rodriguez De Tapia  y Beatriz Sanz Delgado.
-## Objetivos del trabajo
-
-Lista
+## Objetivos del traba.
+EL trabajo tendrá el objetivo de crear un videoclub donde puedas  elegir películas de todo tipo con facilidad.
